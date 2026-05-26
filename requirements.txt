@@ -1,0 +1,5 @@
+django
+gunicorn
+python-decouple
+dj-database-url
+whitenoise
